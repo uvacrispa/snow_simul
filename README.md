@@ -5,7 +5,7 @@ Snowflakes drift down under gravity and wind, settle on the ground, and graduall
 
 ## Demo
 
-https://github.com/user-attachments/assets/914f3e59-a9f8-4dd1-8ae6-50cae04cb5c2
+https://github.com/user-attachments/assets/1f1e7850-4765-4d75-963d-670601b88d6e
 
 ## Build and run
 
